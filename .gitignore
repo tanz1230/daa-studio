@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# the terrain model is not distributed with the code (see README)
+studio/assets/
